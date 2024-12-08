@@ -1,0 +1,1001 @@
+salary,city,age,vacation_prefer,transport_prefer,target
+36313,New York,32,Beach holiday,plane,London
+49876,Bishkek,40,Beach holiday,auto,London
+33905,Moscow,47,Shopping,auto,New York
+37012,Bishkek,48,Shopping,plane,London
+43639,New York,49,Shopping,plane,Moscow
+47646,Bishkek,35,Beach holiday,auto,London
+33318,Moscow,41,Shopping,auto,Moscow
+43734,Bishkek,40,Beach holiday,auto,Moscow
+48763,New York,47,Shopping,auto,Moscow
+57504,Bishkek,44,Shopping,plane,New York
+51944,Moscow,33,Beach holiday,plane,Moscow
+35580,Bishkek,45,Shopping,plane,Moscow
+41731,Moscow,49,Beach holiday,auto,New York
+57146,Bishkek,50,Shopping,auto,London
+46112,Bishkek,48,Beach holiday,plane,New York
+59814,New York,30,Beach holiday,plane,Moscow
+41753,Moscow,34,Shopping,auto,London
+46091,Moscow,37,Beach holiday,auto,New York
+58939,Bishkek,41,Beach holiday,auto,London
+55905,Bishkek,36,Shopping,plane,London
+49048,Moscow,41,Shopping,auto,London
+35436,Bishkek,37,Beach holiday,plane,Moscow
+34491,Moscow,36,Shopping,plane,Moscow
+42930,Bishkek,33,Shopping,auto,London
+44512,Bishkek,50,Beach holiday,auto,Moscow
+42647,Moscow,31,Shopping,auto,New York
+30637,Moscow,41,Beach holiday,plane,Moscow
+40321,Bishkek,49,Shopping,plane,Moscow
+45146,Moscow,44,Beach holiday,auto,Moscow
+48817,Moscow,40,Shopping,plane,New York
+33180,Moscow,35,Beach holiday,auto,London
+48821,New York,41,Beach holiday,auto,Moscow
+35444,Bishkek,50,Beach holiday,plane,New York
+34652,Bishkek,30,Shopping,plane,Moscow
+45199,Moscow,33,Shopping,auto,Moscow
+35807,Bishkek,35,Beach holiday,auto,London
+42434,New York,43,Shopping,auto,New York
+44727,Moscow,45,Beach holiday,auto,Moscow
+31006,Moscow,45,Beach holiday,auto,London
+32014,Moscow,48,Beach holiday,plane,New York
+59342,Moscow,42,Beach holiday,plane,Moscow
+33564,New York,42,Beach holiday,plane,London
+32726,New York,32,Beach holiday,plane,New York
+42659,Moscow,46,Beach holiday,auto,Moscow
+42646,New York,35,Shopping,auto,London
+39877,Moscow,32,Shopping,plane,Moscow
+31644,New York,43,Beach holiday,auto,New York
+49132,Moscow,46,Shopping,plane,London
+52068,Bishkek,34,Beach holiday,auto,New York
+49272,Moscow,46,Beach holiday,auto,New York
+58119,Moscow,37,Shopping,auto,Moscow
+31259,New York,38,Beach holiday,plane,London
+43948,New York,45,Shopping,auto,London
+43148,New York,46,Beach holiday,auto,New York
+56851,Moscow,30,Shopping,plane,Moscow
+36987,Bishkek,49,Shopping,plane,London
+47808,New York,35,Shopping,plane,Moscow
+49805,Bishkek,49,Shopping,auto,Moscow
+59605,New York,44,Beach holiday,auto,London
+43094,Bishkek,47,Shopping,plane,London
+35673,Bishkek,48,Beach holiday,plane,London
+43557,Bishkek,47,Shopping,auto,Moscow
+38913,New York,34,Beach holiday,auto,Moscow
+57254,New York,35,Beach holiday,auto,London
+48203,New York,33,Beach holiday,plane,London
+40248,New York,48,Beach holiday,auto,London
+46332,Moscow,36,Beach holiday,auto,New York
+44911,Bishkek,49,Beach holiday,plane,London
+36168,Bishkek,38,Beach holiday,plane,New York
+49853,Bishkek,33,Shopping,auto,New York
+50861,New York,43,Beach holiday,plane,Moscow
+59374,Moscow,47,Beach holiday,plane,London
+43465,Bishkek,35,Shopping,auto,London
+56177,Bishkek,37,Shopping,plane,New York
+51806,Moscow,48,Beach holiday,plane,Moscow
+33325,New York,47,Shopping,plane,London
+37992,Bishkek,45,Beach holiday,auto,Moscow
+36206,New York,37,Shopping,auto,New York
+56324,Moscow,38,Shopping,auto,New York
+38088,New York,36,Shopping,auto,London
+33175,New York,46,Beach holiday,auto,London
+44116,New York,36,Shopping,auto,Moscow
+43585,Moscow,47,Beach holiday,auto,New York
+40655,Moscow,44,Shopping,auto,Moscow
+42608,Bishkek,39,Shopping,plane,London
+38470,New York,46,Beach holiday,auto,London
+47977,Bishkek,35,Shopping,plane,New York
+47852,Moscow,37,Beach holiday,auto,London
+45757,New York,40,Beach holiday,auto,Moscow
+30122,Moscow,48,Shopping,auto,London
+49404,Moscow,37,Beach holiday,plane,London
+33089,Moscow,31,Shopping,auto,London
+57138,New York,38,Shopping,auto,Moscow
+31562,New York,31,Shopping,plane,Moscow
+33829,Moscow,40,Shopping,auto,London
+44110,New York,39,Beach holiday,auto,New York
+32130,New York,50,Beach holiday,plane,London
+38803,New York,46,Beach holiday,plane,Moscow
+43782,Bishkek,30,Beach holiday,auto,New York
+45096,Bishkek,43,Shopping,plane,London
+52869,Moscow,30,Beach holiday,plane,Moscow
+52067,Bishkek,31,Beach holiday,plane,New York
+52942,Bishkek,49,Shopping,plane,New York
+44010,Bishkek,40,Beach holiday,plane,London
+32202,New York,34,Shopping,auto,London
+58988,Bishkek,48,Beach holiday,plane,New York
+54907,New York,41,Beach holiday,auto,New York
+53453,Moscow,49,Shopping,plane,Moscow
+58189,New York,39,Beach holiday,plane,Moscow
+58027,New York,44,Shopping,plane,Moscow
+58297,Bishkek,30,Beach holiday,auto,London
+44673,Moscow,45,Beach holiday,auto,Moscow
+53925,New York,31,Beach holiday,auto,Moscow
+42969,Bishkek,34,Shopping,auto,Moscow
+36499,Bishkek,33,Beach holiday,plane,London
+56435,Moscow,30,Shopping,plane,London
+50858,Bishkek,32,Beach holiday,plane,Moscow
+34013,New York,39,Beach holiday,plane,New York
+56209,Bishkek,31,Beach holiday,auto,Moscow
+46117,New York,34,Beach holiday,auto,London
+49617,Bishkek,48,Beach holiday,plane,New York
+34897,Bishkek,36,Beach holiday,plane,New York
+44970,Bishkek,49,Shopping,auto,Moscow
+54904,Moscow,34,Shopping,plane,London
+42896,New York,36,Beach holiday,plane,New York
+56231,Moscow,50,Beach holiday,auto,Moscow
+54699,Moscow,40,Shopping,auto,New York
+35080,Bishkek,46,Beach holiday,auto,London
+31966,Bishkek,40,Beach holiday,auto,Moscow
+39955,Bishkek,36,Beach holiday,auto,London
+58409,Bishkek,35,Beach holiday,auto,Moscow
+40530,New York,33,Shopping,auto,Moscow
+31208,New York,43,Shopping,auto,Moscow
+49862,New York,31,Beach holiday,plane,London
+45711,Bishkek,47,Shopping,auto,New York
+35582,Bishkek,35,Beach holiday,auto,Moscow
+38330,Bishkek,49,Shopping,plane,New York
+33599,Moscow,34,Shopping,auto,London
+39487,Moscow,36,Shopping,auto,London
+55762,Moscow,35,Shopping,plane,New York
+38959,Bishkek,39,Shopping,auto,New York
+35174,Bishkek,35,Beach holiday,auto,London
+39614,New York,43,Shopping,auto,London
+30266,New York,37,Shopping,plane,London
+56535,Moscow,46,Shopping,plane,London
+36709,Moscow,36,Shopping,auto,London
+37035,New York,34,Beach holiday,plane,Moscow
+40260,Moscow,39,Beach holiday,plane,London
+55544,Moscow,34,Shopping,auto,New York
+57596,Bishkek,34,Shopping,plane,London
+53759,Bishkek,30,Beach holiday,plane,New York
+55050,Bishkek,37,Beach holiday,auto,Moscow
+48440,Bishkek,40,Shopping,auto,New York
+52640,New York,30,Beach holiday,auto,London
+35065,Moscow,34,Shopping,auto,New York
+38332,New York,31,Shopping,auto,New York
+47623,New York,30,Shopping,plane,Moscow
+42684,Moscow,43,Beach holiday,auto,New York
+59002,Moscow,37,Beach holiday,plane,London
+57958,Bishkek,49,Beach holiday,auto,New York
+51803,New York,36,Shopping,plane,New York
+55419,New York,33,Beach holiday,auto,Moscow
+35352,Moscow,41,Beach holiday,plane,London
+33382,Moscow,47,Beach holiday,auto,New York
+45877,Bishkek,35,Shopping,auto,Moscow
+47729,Moscow,49,Shopping,auto,New York
+57016,Bishkek,40,Beach holiday,plane,London
+36654,New York,49,Beach holiday,plane,Moscow
+39415,Bishkek,37,Shopping,auto,London
+36048,Moscow,30,Shopping,auto,Moscow
+34935,Bishkek,38,Beach holiday,auto,New York
+30923,Bishkek,47,Shopping,plane,Moscow
+49498,Bishkek,37,Beach holiday,plane,Moscow
+49705,Moscow,43,Shopping,plane,New York
+38299,Moscow,50,Shopping,auto,London
+49424,Moscow,49,Shopping,auto,Moscow
+48487,New York,34,Beach holiday,plane,London
+42092,Bishkek,43,Shopping,plane,New York
+30639,Bishkek,45,Beach holiday,plane,Moscow
+54054,Bishkek,38,Beach holiday,plane,Moscow
+50258,Bishkek,50,Beach holiday,plane,New York
+40802,Moscow,35,Shopping,auto,Moscow
+34681,New York,32,Beach holiday,plane,Moscow
+38744,Bishkek,42,Shopping,auto,New York
+42389,Bishkek,31,Shopping,auto,New York
+40980,Bishkek,50,Shopping,auto,Moscow
+55434,Moscow,48,Shopping,plane,New York
+48441,Bishkek,36,Shopping,auto,London
+40493,Bishkek,37,Beach holiday,auto,London
+57667,New York,48,Beach holiday,auto,Moscow
+49710,New York,41,Beach holiday,plane,Moscow
+57508,Moscow,39,Shopping,auto,London
+53976,New York,37,Beach holiday,auto,New York
+56499,Bishkek,41,Shopping,plane,New York
+51186,Bishkek,34,Beach holiday,auto,Moscow
+48525,Moscow,49,Shopping,plane,New York
+51096,Bishkek,31,Beach holiday,plane,Moscow
+37467,New York,31,Shopping,auto,London
+49892,Bishkek,35,Beach holiday,plane,New York
+34291,New York,43,Shopping,plane,New York
+59614,Bishkek,42,Shopping,plane,New York
+30500,Bishkek,30,Shopping,auto,London
+51110,Bishkek,39,Shopping,auto,Moscow
+38388,Bishkek,45,Shopping,auto,New York
+40088,New York,45,Beach holiday,auto,New York
+52265,New York,42,Beach holiday,plane,Moscow
+54503,New York,30,Beach holiday,plane,Moscow
+37784,New York,47,Beach holiday,plane,London
+50013,Moscow,32,Beach holiday,auto,London
+55426,Moscow,39,Shopping,plane,London
+40863,Moscow,40,Shopping,auto,New York
+30816,Moscow,35,Shopping,auto,New York
+39220,Bishkek,32,Beach holiday,auto,Moscow
+54220,Bishkek,43,Shopping,auto,New York
+56771,Bishkek,32,Shopping,auto,New York
+51507,Moscow,32,Beach holiday,plane,London
+52614,Moscow,50,Beach holiday,plane,New York
+51059,Moscow,34,Beach holiday,auto,New York
+43424,Moscow,50,Shopping,plane,London
+35417,Bishkek,48,Shopping,plane,Moscow
+38962,Bishkek,46,Beach holiday,auto,Moscow
+32920,Bishkek,46,Shopping,auto,New York
+32388,Moscow,43,Shopping,auto,Moscow
+43411,Moscow,45,Beach holiday,auto,New York
+35965,Bishkek,49,Shopping,plane,New York
+51062,New York,30,Shopping,plane,Moscow
+34777,Bishkek,39,Shopping,auto,London
+54272,Bishkek,47,Beach holiday,auto,London
+57149,Bishkek,30,Shopping,plane,New York
+36164,New York,30,Shopping,plane,London
+43656,Moscow,34,Beach holiday,plane,New York
+50152,New York,37,Beach holiday,plane,New York
+53918,Moscow,37,Beach holiday,plane,New York
+54532,Bishkek,33,Beach holiday,plane,Moscow
+38072,New York,48,Beach holiday,auto,London
+52723,Bishkek,32,Beach holiday,plane,London
+42301,Moscow,30,Beach holiday,plane,London
+55373,Bishkek,45,Shopping,plane,London
+56387,Bishkek,30,Beach holiday,plane,Moscow
+43081,Moscow,50,Beach holiday,auto,New York
+45607,Moscow,33,Beach holiday,auto,New York
+58006,New York,31,Shopping,auto,London
+32673,Moscow,49,Beach holiday,plane,Moscow
+56716,Moscow,37,Shopping,plane,New York
+49620,New York,38,Beach holiday,plane,London
+55497,Bishkek,34,Shopping,plane,Moscow
+38194,Moscow,36,Beach holiday,auto,London
+44359,New York,34,Beach holiday,plane,London
+54936,New York,33,Beach holiday,auto,New York
+37912,Moscow,31,Shopping,auto,London
+35837,Bishkek,37,Shopping,plane,New York
+59646,Bishkek,34,Beach holiday,plane,New York
+49268,Bishkek,31,Shopping,plane,New York
+44801,New York,42,Shopping,plane,Moscow
+57201,Moscow,46,Beach holiday,plane,Moscow
+37194,Moscow,41,Shopping,auto,New York
+55340,Moscow,45,Beach holiday,auto,Moscow
+34297,Moscow,43,Shopping,auto,London
+53184,New York,35,Shopping,auto,London
+37003,Bishkek,39,Shopping,auto,London
+49510,New York,46,Shopping,plane,London
+34434,Moscow,45,Shopping,plane,London
+53165,New York,47,Shopping,auto,Moscow
+45787,Moscow,45,Shopping,auto,London
+41330,Bishkek,49,Shopping,auto,New York
+34420,Moscow,34,Beach holiday,auto,Moscow
+50816,New York,42,Beach holiday,plane,New York
+35847,Moscow,41,Shopping,auto,Moscow
+52899,Bishkek,37,Shopping,auto,New York
+59566,Moscow,42,Beach holiday,plane,New York
+36610,Moscow,50,Beach holiday,plane,Moscow
+42686,Bishkek,31,Shopping,plane,New York
+58541,Moscow,47,Beach holiday,auto,Moscow
+46827,New York,44,Shopping,plane,London
+48544,New York,39,Beach holiday,plane,London
+59454,Bishkek,42,Shopping,auto,Moscow
+56165,Moscow,43,Shopping,auto,New York
+46676,Bishkek,39,Beach holiday,auto,London
+38253,Moscow,31,Beach holiday,plane,New York
+37758,Moscow,33,Beach holiday,plane,London
+41124,Moscow,47,Shopping,auto,Moscow
+30094,Bishkek,49,Shopping,auto,Moscow
+50770,New York,41,Shopping,plane,New York
+46838,Moscow,38,Beach holiday,auto,London
+56710,New York,48,Shopping,plane,Moscow
+49078,Moscow,30,Shopping,plane,Moscow
+58947,Bishkek,40,Shopping,auto,New York
+49421,Moscow,46,Beach holiday,plane,London
+31245,Bishkek,31,Beach holiday,plane,Moscow
+55945,New York,36,Shopping,auto,New York
+35259,New York,36,Shopping,plane,New York
+46523,New York,33,Beach holiday,plane,London
+58519,Bishkek,47,Shopping,auto,London
+30309,Moscow,35,Beach holiday,auto,London
+53184,Bishkek,33,Shopping,plane,London
+43628,New York,35,Shopping,auto,New York
+41030,Moscow,47,Shopping,auto,Moscow
+55091,Moscow,45,Beach holiday,plane,Moscow
+43105,Moscow,34,Shopping,auto,Moscow
+50691,Moscow,33,Shopping,plane,London
+37757,Moscow,50,Shopping,plane,New York
+57878,Bishkek,32,Beach holiday,plane,London
+32193,Moscow,38,Shopping,plane,Moscow
+45748,New York,50,Shopping,plane,Moscow
+42168,Moscow,40,Beach holiday,auto,London
+47244,Moscow,31,Beach holiday,plane,New York
+53593,New York,47,Shopping,plane,New York
+54234,New York,42,Shopping,auto,London
+48636,Bishkek,42,Beach holiday,plane,Moscow
+32336,Bishkek,32,Shopping,plane,London
+55120,New York,32,Beach holiday,auto,London
+57533,New York,34,Shopping,plane,New York
+54123,New York,45,Shopping,auto,New York
+43202,Moscow,49,Shopping,plane,New York
+38883,Bishkek,32,Beach holiday,plane,New York
+48501,Bishkek,38,Beach holiday,auto,London
+57028,Bishkek,36,Beach holiday,plane,Moscow
+54615,Bishkek,50,Shopping,auto,New York
+52182,Bishkek,49,Shopping,plane,Moscow
+39762,New York,33,Beach holiday,plane,Moscow
+33264,New York,46,Beach holiday,auto,London
+34159,New York,46,Shopping,plane,Moscow
+38979,New York,48,Beach holiday,plane,London
+53267,Moscow,31,Beach holiday,plane,London
+51589,Moscow,34,Beach holiday,plane,Moscow
+44277,New York,32,Shopping,auto,New York
+46561,New York,45,Beach holiday,plane,Moscow
+47606,Bishkek,40,Beach holiday,auto,London
+33115,Moscow,33,Shopping,auto,New York
+52549,Moscow,44,Shopping,auto,New York
+51296,Bishkek,40,Beach holiday,plane,London
+55363,Moscow,40,Beach holiday,plane,Moscow
+46697,Bishkek,37,Shopping,plane,New York
+44088,New York,30,Shopping,auto,Moscow
+39848,New York,38,Beach holiday,plane,Moscow
+34553,New York,44,Beach holiday,plane,Moscow
+40595,Bishkek,49,Shopping,auto,Moscow
+39033,Moscow,46,Shopping,auto,Moscow
+33846,Moscow,46,Beach holiday,auto,London
+48220,Moscow,40,Beach holiday,auto,London
+59437,Bishkek,34,Beach holiday,auto,London
+34619,Moscow,39,Shopping,plane,Moscow
+48561,Moscow,35,Beach holiday,plane,Moscow
+33587,New York,47,Beach holiday,auto,Moscow
+54197,Bishkek,42,Shopping,plane,Moscow
+57166,Moscow,49,Shopping,plane,London
+31024,Moscow,40,Beach holiday,auto,New York
+58612,New York,36,Shopping,plane,London
+37719,Moscow,40,Beach holiday,plane,New York
+34640,Moscow,46,Beach holiday,plane,Moscow
+37226,New York,45,Beach holiday,plane,London
+48058,New York,42,Beach holiday,auto,New York
+33839,Moscow,39,Beach holiday,auto,London
+46395,Bishkek,50,Shopping,auto,New York
+48963,Bishkek,38,Shopping,plane,New York
+34300,New York,50,Beach holiday,auto,Moscow
+35527,New York,44,Shopping,auto,New York
+37513,Moscow,49,Beach holiday,plane,London
+48834,New York,49,Shopping,plane,London
+31887,Bishkek,31,Shopping,auto,New York
+54520,New York,37,Beach holiday,auto,New York
+45721,Moscow,45,Shopping,auto,Moscow
+48539,Moscow,33,Shopping,plane,New York
+56390,Bishkek,34,Beach holiday,auto,New York
+51493,Moscow,40,Beach holiday,auto,London
+36027,Moscow,48,Shopping,plane,New York
+31654,Moscow,30,Shopping,plane,London
+38156,Moscow,49,Beach holiday,plane,Moscow
+42151,Moscow,38,Beach holiday,auto,London
+58364,Moscow,43,Shopping,auto,New York
+46739,Bishkek,47,Shopping,auto,New York
+44714,Bishkek,50,Shopping,auto,Moscow
+49660,New York,45,Shopping,auto,New York
+48692,Bishkek,47,Shopping,auto,London
+40210,Moscow,39,Shopping,auto,New York
+52352,Moscow,33,Shopping,plane,London
+32953,New York,41,Beach holiday,auto,New York
+43299,Moscow,41,Shopping,plane,Moscow
+50289,Bishkek,43,Beach holiday,plane,London
+39338,Moscow,43,Shopping,plane,New York
+42193,New York,34,Shopping,plane,Moscow
+34952,New York,34,Shopping,auto,New York
+46522,Bishkek,31,Shopping,auto,New York
+40586,Bishkek,37,Beach holiday,plane,New York
+42978,New York,42,Beach holiday,auto,London
+31352,New York,46,Beach holiday,auto,Moscow
+33441,New York,35,Beach holiday,plane,New York
+39054,Bishkek,46,Shopping,plane,London
+50667,Bishkek,32,Beach holiday,auto,London
+34635,New York,45,Shopping,plane,New York
+34526,Bishkek,40,Beach holiday,plane,Moscow
+33115,Moscow,38,Beach holiday,auto,London
+41822,Bishkek,40,Shopping,auto,London
+48179,New York,48,Shopping,auto,Moscow
+46669,New York,35,Shopping,plane,New York
+36881,New York,39,Beach holiday,plane,London
+38606,New York,41,Beach holiday,auto,New York
+32976,Bishkek,36,Shopping,auto,New York
+44570,Moscow,41,Shopping,plane,Moscow
+35408,New York,38,Beach holiday,auto,London
+42259,Moscow,36,Beach holiday,auto,Moscow
+57459,New York,46,Beach holiday,plane,New York
+33721,New York,48,Beach holiday,plane,London
+54671,New York,33,Shopping,auto,London
+41078,Moscow,39,Beach holiday,auto,London
+54957,Bishkek,48,Shopping,plane,New York
+47979,New York,49,Beach holiday,auto,Moscow
+32980,New York,38,Shopping,auto,London
+55362,Bishkek,35,Shopping,plane,London
+56594,New York,40,Beach holiday,auto,Moscow
+34580,Moscow,36,Beach holiday,plane,New York
+51934,Bishkek,30,Beach holiday,plane,New York
+30018,Bishkek,38,Shopping,auto,Moscow
+56435,New York,39,Beach holiday,plane,New York
+53416,Bishkek,47,Beach holiday,auto,London
+38473,Moscow,50,Shopping,auto,Moscow
+39021,New York,50,Beach holiday,plane,Moscow
+44462,New York,32,Shopping,auto,New York
+53068,Moscow,35,Beach holiday,auto,New York
+46231,Bishkek,34,Shopping,auto,Moscow
+50070,New York,37,Beach holiday,plane,Moscow
+42749,Moscow,41,Shopping,plane,New York
+53855,New York,48,Beach holiday,plane,New York
+38783,Moscow,39,Beach holiday,auto,London
+58714,Bishkek,33,Beach holiday,plane,London
+42570,Bishkek,49,Beach holiday,auto,Moscow
+58323,Moscow,45,Shopping,auto,New York
+37665,New York,38,Beach holiday,plane,Moscow
+57996,New York,34,Shopping,plane,New York
+56225,Bishkek,37,Beach holiday,plane,London
+43264,New York,48,Beach holiday,plane,London
+52913,Moscow,36,Beach holiday,plane,Moscow
+31028,Bishkek,49,Beach holiday,auto,New York
+36932,New York,32,Shopping,plane,New York
+39786,New York,41,Shopping,auto,London
+51100,Moscow,30,Shopping,plane,New York
+56561,Moscow,47,Shopping,plane,Moscow
+49592,Bishkek,39,Shopping,plane,New York
+51501,New York,33,Shopping,auto,London
+31087,New York,30,Shopping,plane,New York
+59315,New York,35,Shopping,plane,London
+57320,New York,34,Shopping,plane,New York
+58153,Bishkek,50,Shopping,auto,Moscow
+41276,Bishkek,34,Shopping,auto,London
+30560,Bishkek,50,Beach holiday,auto,Moscow
+59521,Moscow,31,Beach holiday,auto,Moscow
+47412,Bishkek,48,Shopping,plane,New York
+32692,New York,46,Shopping,auto,Moscow
+41817,Moscow,32,Shopping,plane,New York
+43777,New York,31,Shopping,auto,London
+59829,New York,44,Beach holiday,plane,Moscow
+30828,Moscow,48,Shopping,auto,New York
+52097,Moscow,42,Beach holiday,plane,Moscow
+52559,Bishkek,47,Beach holiday,auto,London
+40557,New York,46,Shopping,auto,Moscow
+52068,Bishkek,39,Beach holiday,plane,New York
+37535,Bishkek,31,Beach holiday,plane,Moscow
+38849,Moscow,37,Beach holiday,auto,New York
+41952,Bishkek,38,Shopping,plane,Moscow
+33707,New York,32,Shopping,plane,New York
+59454,Moscow,39,Shopping,auto,London
+38893,New York,34,Shopping,plane,London
+52544,Bishkek,48,Shopping,auto,London
+43579,Bishkek,36,Beach holiday,plane,London
+30804,Bishkek,32,Shopping,plane,Moscow
+38824,Bishkek,33,Shopping,plane,New York
+58973,Bishkek,32,Shopping,plane,New York
+52532,Bishkek,48,Shopping,plane,New York
+33041,New York,38,Beach holiday,auto,Moscow
+54937,Moscow,41,Beach holiday,plane,New York
+52675,Bishkek,50,Shopping,auto,New York
+38644,Bishkek,34,Shopping,auto,Moscow
+33012,New York,49,Shopping,auto,Moscow
+43345,Bishkek,35,Shopping,plane,Moscow
+50500,Bishkek,38,Shopping,plane,New York
+40347,Bishkek,47,Shopping,auto,London
+53523,New York,37,Beach holiday,auto,New York
+36688,Moscow,34,Beach holiday,plane,New York
+30262,Bishkek,36,Shopping,plane,London
+44517,New York,34,Beach holiday,plane,London
+46041,Bishkek,50,Shopping,auto,London
+49056,Moscow,44,Shopping,auto,London
+57881,Bishkek,32,Beach holiday,plane,London
+43574,New York,50,Shopping,plane,Moscow
+54741,Bishkek,43,Shopping,auto,Moscow
+45399,Bishkek,36,Beach holiday,plane,Moscow
+49789,Bishkek,46,Beach holiday,auto,London
+58003,Bishkek,44,Beach holiday,plane,New York
+32662,Bishkek,48,Beach holiday,auto,Moscow
+35292,Moscow,37,Shopping,plane,London
+45287,Bishkek,32,Shopping,auto,Moscow
+32301,Moscow,33,Beach holiday,auto,New York
+33590,New York,47,Shopping,auto,Moscow
+51989,Bishkek,46,Beach holiday,plane,London
+36850,Moscow,39,Beach holiday,auto,New York
+38135,New York,32,Shopping,auto,London
+33108,Bishkek,50,Beach holiday,plane,Moscow
+32444,Bishkek,35,Shopping,auto,Moscow
+49617,Moscow,45,Beach holiday,plane,London
+46750,New York,34,Beach holiday,auto,New York
+59709,Moscow,46,Shopping,auto,London
+55849,Moscow,31,Beach holiday,auto,London
+52613,Moscow,31,Shopping,auto,Moscow
+36999,Moscow,46,Shopping,plane,London
+47768,New York,48,Beach holiday,auto,New York
+45916,New York,30,Beach holiday,plane,London
+38595,Bishkek,44,Beach holiday,plane,Moscow
+59050,Bishkek,34,Beach holiday,plane,London
+38128,Bishkek,32,Beach holiday,auto,London
+38596,Moscow,32,Shopping,plane,Moscow
+46522,Bishkek,39,Beach holiday,auto,Moscow
+36298,Moscow,35,Beach holiday,plane,Moscow
+39066,New York,30,Beach holiday,auto,New York
+51270,New York,39,Beach holiday,auto,New York
+45514,Moscow,31,Shopping,plane,London
+52614,Moscow,30,Beach holiday,auto,New York
+57718,Bishkek,30,Beach holiday,auto,London
+33348,New York,38,Beach holiday,plane,Moscow
+42325,New York,49,Beach holiday,plane,New York
+45977,Moscow,46,Beach holiday,auto,New York
+54165,New York,33,Beach holiday,plane,New York
+41462,New York,41,Beach holiday,plane,New York
+58490,Bishkek,31,Beach holiday,plane,New York
+44754,Moscow,50,Beach holiday,auto,London
+56601,Moscow,39,Shopping,auto,London
+46461,Bishkek,46,Shopping,auto,New York
+57443,Bishkek,36,Shopping,auto,Moscow
+59299,Moscow,46,Beach holiday,auto,Moscow
+33747,New York,42,Shopping,auto,Moscow
+35843,Bishkek,38,Shopping,plane,Moscow
+51294,Bishkek,31,Shopping,plane,Moscow
+30898,Moscow,32,Shopping,plane,New York
+34142,Bishkek,41,Beach holiday,plane,London
+32934,Moscow,33,Beach holiday,auto,London
+32095,Moscow,31,Shopping,plane,Moscow
+49322,New York,34,Beach holiday,auto,New York
+50644,Moscow,34,Shopping,auto,New York
+51317,Moscow,42,Shopping,auto,New York
+40242,Moscow,43,Shopping,auto,London
+31909,Bishkek,33,Shopping,auto,Moscow
+41986,New York,33,Beach holiday,auto,London
+45083,Bishkek,47,Shopping,auto,London
+56577,Bishkek,32,Shopping,auto,Moscow
+47013,Moscow,30,Beach holiday,auto,New York
+31206,Bishkek,46,Shopping,auto,New York
+55700,Moscow,35,Shopping,auto,New York
+55834,New York,44,Beach holiday,auto,Moscow
+52633,New York,33,Shopping,auto,Moscow
+53805,Bishkek,33,Beach holiday,auto,New York
+32932,Bishkek,34,Shopping,plane,New York
+42131,Moscow,50,Beach holiday,auto,Moscow
+59434,Moscow,33,Beach holiday,auto,London
+50584,New York,38,Shopping,auto,Moscow
+40009,Moscow,50,Beach holiday,auto,London
+48410,Moscow,36,Beach holiday,auto,New York
+33379,Moscow,31,Shopping,plane,Moscow
+47157,Bishkek,37,Beach holiday,auto,Moscow
+55107,Bishkek,33,Shopping,plane,London
+37974,Moscow,50,Shopping,auto,New York
+34534,New York,30,Shopping,auto,New York
+49167,Moscow,38,Shopping,auto,London
+56492,New York,50,Shopping,auto,Moscow
+50657,Moscow,34,Shopping,plane,Moscow
+59201,Moscow,46,Beach holiday,plane,London
+57696,New York,36,Beach holiday,auto,Moscow
+48415,Bishkek,41,Shopping,plane,Moscow
+51675,Bishkek,40,Shopping,plane,Moscow
+48614,Bishkek,50,Shopping,auto,London
+41847,Bishkek,39,Shopping,auto,London
+55467,New York,39,Beach holiday,plane,London
+47351,Moscow,30,Beach holiday,auto,London
+31113,New York,30,Shopping,auto,London
+47333,Moscow,30,Beach holiday,plane,New York
+42874,New York,45,Beach holiday,auto,Moscow
+44309,New York,34,Shopping,plane,London
+48514,Bishkek,39,Beach holiday,auto,London
+58942,Bishkek,40,Beach holiday,auto,Moscow
+40785,Bishkek,48,Beach holiday,auto,New York
+37999,Moscow,39,Beach holiday,plane,New York
+54247,Moscow,32,Beach holiday,plane,London
+59897,Moscow,32,Shopping,auto,London
+59101,Bishkek,46,Shopping,auto,London
+35829,New York,44,Shopping,plane,London
+43152,Moscow,49,Beach holiday,auto,New York
+57436,New York,35,Beach holiday,auto,New York
+46978,Bishkek,42,Shopping,auto,London
+37068,Moscow,41,Beach holiday,auto,London
+30432,Moscow,44,Beach holiday,plane,New York
+30478,Moscow,48,Shopping,auto,New York
+43877,New York,38,Shopping,plane,Moscow
+30157,Bishkek,30,Shopping,plane,Moscow
+35824,Bishkek,35,Beach holiday,plane,New York
+36365,Bishkek,35,Shopping,plane,Moscow
+30940,New York,49,Shopping,plane,London
+55440,Moscow,48,Shopping,auto,New York
+35418,Bishkek,50,Beach holiday,auto,New York
+59033,New York,32,Shopping,plane,London
+49466,New York,31,Shopping,plane,New York
+50318,Moscow,46,Shopping,auto,Moscow
+44876,Moscow,43,Shopping,auto,New York
+38348,New York,36,Beach holiday,plane,New York
+59835,Moscow,44,Beach holiday,plane,London
+56776,Bishkek,48,Beach holiday,plane,New York
+55861,Bishkek,35,Beach holiday,auto,New York
+46313,Moscow,30,Shopping,plane,London
+57065,Bishkek,30,Shopping,plane,New York
+53197,Bishkek,33,Beach holiday,plane,London
+35853,New York,33,Shopping,plane,New York
+42682,Moscow,31,Shopping,plane,New York
+37515,New York,34,Beach holiday,auto,New York
+33000,New York,37,Beach holiday,plane,Moscow
+38186,Moscow,50,Shopping,plane,London
+55660,Moscow,47,Beach holiday,auto,Moscow
+31109,New York,34,Shopping,plane,New York
+53299,Bishkek,47,Shopping,auto,London
+35337,New York,46,Shopping,auto,Moscow
+49974,Bishkek,48,Shopping,plane,New York
+37691,Moscow,34,Beach holiday,plane,Moscow
+52765,Moscow,30,Beach holiday,plane,Moscow
+41029,Moscow,32,Beach holiday,auto,London
+51007,Moscow,45,Beach holiday,plane,London
+47575,Bishkek,40,Beach holiday,plane,New York
+48787,New York,37,Beach holiday,auto,New York
+30668,Moscow,33,Beach holiday,auto,New York
+59033,Bishkek,43,Shopping,auto,London
+42809,Bishkek,41,Shopping,plane,Moscow
+47693,Moscow,36,Beach holiday,plane,London
+42047,Moscow,47,Shopping,plane,New York
+30147,Moscow,46,Beach holiday,auto,New York
+41134,Moscow,36,Shopping,plane,Moscow
+57822,Moscow,47,Beach holiday,plane,Moscow
+45886,New York,34,Beach holiday,auto,New York
+49265,Bishkek,41,Beach holiday,auto,New York
+32848,Moscow,32,Beach holiday,auto,New York
+44231,Bishkek,34,Beach holiday,auto,London
+50373,Moscow,46,Shopping,plane,Moscow
+33948,Bishkek,42,Beach holiday,plane,New York
+30780,New York,42,Beach holiday,auto,New York
+36526,Bishkek,41,Beach holiday,plane,Moscow
+55854,Bishkek,30,Shopping,plane,New York
+35359,New York,45,Beach holiday,auto,London
+47859,New York,46,Shopping,auto,Moscow
+41121,Bishkek,46,Shopping,auto,New York
+58811,New York,30,Beach holiday,plane,Moscow
+44031,Bishkek,30,Shopping,auto,London
+39263,Moscow,47,Shopping,plane,London
+49574,Bishkek,34,Shopping,plane,London
+57940,Moscow,42,Shopping,auto,New York
+37349,New York,39,Shopping,auto,London
+40182,Moscow,38,Shopping,auto,London
+59217,Bishkek,40,Shopping,plane,Moscow
+33244,Bishkek,48,Shopping,auto,London
+54232,New York,37,Shopping,auto,New York
+48595,New York,36,Beach holiday,plane,New York
+45491,New York,30,Shopping,plane,New York
+39398,Moscow,34,Shopping,plane,New York
+52254,Moscow,44,Beach holiday,plane,London
+41374,New York,34,Beach holiday,auto,New York
+50893,Bishkek,32,Shopping,plane,New York
+33053,New York,46,Beach holiday,plane,Moscow
+45001,New York,31,Shopping,auto,London
+32816,New York,42,Shopping,auto,Moscow
+49094,New York,38,Beach holiday,plane,New York
+35121,Moscow,35,Beach holiday,plane,Moscow
+54953,Bishkek,46,Beach holiday,plane,New York
+52849,Bishkek,33,Beach holiday,plane,New York
+30133,Moscow,39,Beach holiday,auto,Moscow
+52164,Moscow,49,Beach holiday,plane,Moscow
+35656,New York,44,Beach holiday,plane,New York
+42816,Bishkek,31,Beach holiday,plane,London
+42506,Moscow,34,Shopping,auto,New York
+43789,Moscow,39,Shopping,plane,London
+38338,New York,40,Beach holiday,auto,New York
+55401,Moscow,35,Shopping,auto,London
+56415,Moscow,34,Beach holiday,plane,New York
+35198,Bishkek,44,Shopping,auto,New York
+36002,Bishkek,41,Beach holiday,plane,London
+51349,Bishkek,47,Shopping,auto,Moscow
+44635,Moscow,40,Shopping,auto,London
+41773,Bishkek,34,Shopping,auto,London
+32088,New York,34,Shopping,auto,Moscow
+50037,Moscow,50,Shopping,plane,New York
+56206,New York,50,Beach holiday,plane,London
+38107,Bishkek,50,Shopping,auto,London
+45155,Bishkek,49,Beach holiday,plane,New York
+54950,Bishkek,43,Beach holiday,auto,Moscow
+56620,Moscow,37,Beach holiday,auto,Moscow
+48906,New York,45,Beach holiday,plane,New York
+44693,Moscow,47,Shopping,plane,Moscow
+30645,Bishkek,34,Beach holiday,auto,London
+40870,New York,43,Shopping,plane,New York
+44520,Bishkek,34,Beach holiday,auto,London
+48799,Bishkek,40,Beach holiday,auto,London
+48481,Bishkek,30,Beach holiday,plane,New York
+51575,New York,43,Beach holiday,auto,New York
+54862,Bishkek,35,Shopping,auto,New York
+38119,New York,30,Shopping,plane,New York
+35667,Bishkek,39,Beach holiday,auto,London
+32315,Moscow,30,Shopping,plane,Moscow
+33857,Bishkek,31,Shopping,auto,Moscow
+44764,New York,32,Shopping,plane,London
+51296,Moscow,43,Shopping,auto,London
+32909,New York,44,Beach holiday,auto,London
+31141,Bishkek,34,Beach holiday,plane,Moscow
+32005,New York,41,Beach holiday,plane,New York
+39673,Moscow,36,Beach holiday,auto,Moscow
+55068,Bishkek,50,Beach holiday,plane,Moscow
+35817,Moscow,35,Shopping,auto,New York
+55694,Moscow,31,Beach holiday,auto,London
+56015,Bishkek,44,Shopping,auto,New York
+56242,Bishkek,31,Shopping,plane,London
+48178,Moscow,39,Beach holiday,plane,New York
+48086,New York,46,Shopping,auto,Moscow
+50726,Bishkek,44,Beach holiday,plane,Moscow
+55096,New York,41,Shopping,auto,Moscow
+57924,Bishkek,43,Shopping,plane,New York
+46067,Moscow,48,Beach holiday,plane,New York
+57572,Moscow,36,Shopping,plane,Moscow
+43783,Moscow,36,Shopping,auto,London
+30969,Bishkek,50,Shopping,auto,New York
+32969,Moscow,33,Shopping,plane,Moscow
+33812,Moscow,49,Beach holiday,auto,London
+56748,Moscow,42,Beach holiday,plane,New York
+47319,Bishkek,48,Shopping,auto,Moscow
+32863,New York,30,Shopping,plane,Moscow
+41501,Moscow,42,Shopping,auto,Moscow
+57776,New York,40,Shopping,plane,London
+38638,Bishkek,42,Shopping,plane,New York
+36260,Moscow,44,Shopping,auto,London
+41116,New York,36,Beach holiday,plane,New York
+32236,Moscow,32,Beach holiday,plane,Moscow
+57210,Bishkek,46,Beach holiday,auto,London
+34467,Bishkek,47,Shopping,auto,Moscow
+31570,New York,34,Beach holiday,plane,Moscow
+54782,Moscow,36,Shopping,plane,London
+52072,Bishkek,43,Shopping,auto,New York
+48615,Bishkek,37,Shopping,auto,Moscow
+46644,New York,34,Shopping,auto,London
+34472,Bishkek,47,Beach holiday,auto,Moscow
+43629,New York,43,Shopping,auto,London
+30343,Bishkek,50,Shopping,plane,London
+43737,New York,40,Shopping,auto,Moscow
+42644,Moscow,50,Shopping,auto,Moscow
+37069,Moscow,42,Shopping,plane,London
+39680,Bishkek,30,Shopping,plane,London
+32361,New York,30,Shopping,plane,New York
+59782,Bishkek,31,Shopping,auto,New York
+55063,New York,32,Shopping,auto,New York
+59395,Bishkek,41,Beach holiday,plane,London
+59606,New York,35,Shopping,plane,Moscow
+44750,Moscow,31,Beach holiday,auto,Moscow
+46980,Bishkek,30,Shopping,auto,London
+48192,New York,32,Shopping,auto,London
+30857,Moscow,30,Beach holiday,auto,New York
+36342,New York,33,Shopping,plane,London
+58521,Moscow,48,Shopping,plane,Moscow
+55757,Bishkek,38,Shopping,auto,New York
+45876,Moscow,39,Beach holiday,plane,Moscow
+32012,Bishkek,45,Shopping,auto,London
+50199,New York,42,Shopping,plane,Moscow
+56345,New York,40,Shopping,auto,Moscow
+49195,New York,30,Beach holiday,auto,Moscow
+48370,Bishkek,32,Shopping,auto,Moscow
+48858,Moscow,41,Shopping,auto,London
+40754,Moscow,30,Shopping,auto,Moscow
+56187,New York,44,Beach holiday,auto,London
+51491,New York,36,Shopping,plane,New York
+47797,Moscow,43,Shopping,plane,New York
+58238,New York,37,Beach holiday,auto,Moscow
+44841,Bishkek,46,Shopping,plane,London
+33236,New York,43,Beach holiday,auto,London
+35603,New York,50,Shopping,plane,Moscow
+39107,Moscow,34,Beach holiday,plane,New York
+41245,Bishkek,42,Shopping,auto,Moscow
+53261,New York,46,Beach holiday,plane,New York
+57516,New York,32,Shopping,plane,New York
+57638,Moscow,49,Beach holiday,plane,Moscow
+36236,New York,47,Shopping,plane,Moscow
+57267,Bishkek,41,Beach holiday,auto,London
+52117,Bishkek,30,Beach holiday,plane,London
+44391,New York,40,Shopping,auto,New York
+51333,New York,34,Beach holiday,auto,London
+34461,Bishkek,35,Shopping,auto,London
+36685,Moscow,31,Beach holiday,auto,London
+32355,Bishkek,38,Beach holiday,auto,New York
+35823,New York,39,Beach holiday,plane,London
+59540,Bishkek,32,Shopping,auto,London
+46403,New York,44,Shopping,auto,New York
+46222,Moscow,49,Shopping,auto,Moscow
+56106,Moscow,36,Beach holiday,plane,Moscow
+35162,Moscow,38,Beach holiday,auto,Moscow
+38840,Moscow,30,Shopping,plane,New York
+31528,Moscow,33,Shopping,plane,Moscow
+34065,Moscow,50,Beach holiday,auto,London
+34707,New York,45,Shopping,plane,Moscow
+34131,Moscow,38,Shopping,plane,Moscow
+37185,Bishkek,37,Beach holiday,auto,Moscow
+58886,Bishkek,49,Shopping,auto,New York
+31084,New York,41,Beach holiday,auto,New York
+46664,Moscow,40,Beach holiday,auto,Moscow
+46752,Bishkek,50,Shopping,plane,Moscow
+47790,Bishkek,35,Shopping,plane,London
+33950,New York,36,Beach holiday,auto,Moscow
+39087,Moscow,43,Shopping,plane,Moscow
+38671,Moscow,47,Shopping,auto,New York
+40391,Moscow,50,Beach holiday,plane,Moscow
+53849,Moscow,33,Shopping,plane,Moscow
+56695,Bishkek,40,Beach holiday,auto,New York
+46503,New York,33,Shopping,plane,New York
+53867,New York,46,Beach holiday,plane,New York
+58997,Moscow,39,Beach holiday,plane,New York
+31064,Bishkek,44,Beach holiday,auto,Moscow
+44934,Moscow,50,Shopping,auto,Moscow
+58114,Moscow,33,Beach holiday,auto,London
+47289,Moscow,50,Shopping,plane,Moscow
+52079,Bishkek,38,Beach holiday,auto,Moscow
+36091,Bishkek,46,Beach holiday,auto,New York
+36275,New York,47,Shopping,plane,Moscow
+47213,Bishkek,49,Beach holiday,auto,Moscow
+33964,Moscow,47,Shopping,auto,Moscow
+44468,Bishkek,36,Beach holiday,auto,New York
+35263,New York,48,Shopping,plane,London
+41700,Moscow,46,Shopping,auto,Moscow
+59229,New York,38,Shopping,plane,New York
+45942,New York,36,Shopping,auto,New York
+44554,New York,34,Shopping,auto,New York
+31592,New York,33,Beach holiday,auto,New York
+31493,Moscow,38,Shopping,plane,Moscow
+36390,Bishkek,45,Shopping,auto,Moscow
+41299,Moscow,47,Beach holiday,auto,Moscow
+44648,Moscow,35,Beach holiday,auto,New York
+42544,Bishkek,44,Shopping,auto,New York
+35663,Moscow,35,Beach holiday,auto,London
+59003,Moscow,41,Shopping,auto,Moscow
+58445,Bishkek,31,Shopping,plane,London
+56389,Bishkek,37,Beach holiday,plane,New York
+56432,New York,50,Beach holiday,auto,London
+49590,Moscow,39,Beach holiday,plane,New York
+51062,New York,30,Beach holiday,auto,New York
+35400,New York,43,Shopping,plane,New York
+49332,Moscow,33,Shopping,auto,Moscow
+41360,Moscow,49,Shopping,plane,Moscow
+45915,Moscow,32,Shopping,plane,New York
+47858,Bishkek,38,Shopping,plane,New York
+50996,Bishkek,41,Beach holiday,plane,Moscow
+57481,Bishkek,50,Shopping,plane,London
+52657,Bishkek,46,Beach holiday,auto,Moscow
+31307,Bishkek,50,Beach holiday,auto,New York
+45614,Moscow,33,Shopping,plane,London
+45131,New York,36,Shopping,auto,New York
+45591,Moscow,34,Shopping,plane,New York
+32685,Bishkek,43,Shopping,auto,Moscow
+33243,Moscow,46,Beach holiday,plane,New York
+33121,Moscow,47,Shopping,auto,Moscow
+46505,New York,34,Beach holiday,auto,New York
+36414,New York,41,Beach holiday,auto,Moscow
+57934,Bishkek,35,Shopping,plane,Moscow
+36197,New York,38,Beach holiday,auto,Moscow
+41933,Bishkek,39,Beach holiday,auto,New York
+56492,Bishkek,44,Shopping,plane,Moscow
+52193,Bishkek,44,Shopping,plane,London
+38994,Bishkek,35,Shopping,auto,Moscow
+46916,Bishkek,36,Beach holiday,plane,New York
+43000,Bishkek,30,Beach holiday,plane,London
+38711,New York,30,Shopping,plane,New York
+44377,Moscow,32,Beach holiday,plane,Moscow
+58905,Bishkek,43,Shopping,auto,London
+31284,Bishkek,44,Shopping,auto,New York
+46081,Bishkek,41,Shopping,plane,London
+36085,New York,38,Shopping,plane,London
+34812,Bishkek,44,Beach holiday,plane,New York
+40140,Bishkek,37,Shopping,auto,New York
+30177,Moscow,36,Shopping,auto,New York
+55456,Bishkek,43,Beach holiday,auto,London
+53296,New York,37,Shopping,plane,New York
+46462,Moscow,36,Beach holiday,plane,New York
+54437,Bishkek,44,Beach holiday,auto,New York
+30333,Bishkek,31,Beach holiday,plane,Moscow
+40284,New York,30,Beach holiday,auto,New York
+57951,Bishkek,49,Beach holiday,plane,New York
+31687,Bishkek,45,Shopping,plane,Moscow
+37266,Moscow,38,Shopping,plane,New York
+44525,Bishkek,47,Shopping,auto,London
+36788,New York,44,Shopping,plane,Moscow
+33106,Bishkek,34,Beach holiday,plane,New York
+52560,New York,30,Shopping,plane,London
+31758,Bishkek,48,Shopping,auto,London
+44490,Moscow,41,Shopping,plane,Moscow
+31734,Bishkek,33,Shopping,auto,New York
+58898,Moscow,45,Beach holiday,plane,London
+38652,New York,34,Beach holiday,auto,Moscow
+55436,Bishkek,47,Beach holiday,plane,London
+32425,Bishkek,45,Shopping,auto,Moscow
+33139,Bishkek,35,Shopping,plane,New York
+53915,New York,30,Beach holiday,plane,Moscow
+31872,Bishkek,45,Shopping,plane,London
+32480,New York,38,Shopping,plane,New York
+44406,New York,50,Shopping,auto,London
+40223,Bishkek,34,Shopping,auto,New York
+55508,Bishkek,32,Beach holiday,auto,Moscow
+32455,New York,39,Beach holiday,plane,Moscow
+57626,Bishkek,45,Shopping,plane,New York
+33615,Bishkek,40,Beach holiday,auto,New York
+34972,Moscow,48,Shopping,plane,London
+48560,Moscow,31,Beach holiday,plane,New York
+39847,New York,39,Shopping,plane,London
+43410,Bishkek,31,Shopping,plane,New York
+53508,New York,45,Shopping,plane,London
+40503,Bishkek,38,Shopping,auto,New York
+57004,New York,31,Beach holiday,plane,London
+42631,Bishkek,41,Beach holiday,plane,New York
+50361,Moscow,45,Beach holiday,plane,New York
+48634,Moscow,38,Shopping,auto,Moscow
+50159,Bishkek,45,Shopping,plane,London
+38849,Bishkek,40,Beach holiday,plane,New York
+40419,New York,42,Shopping,auto,New York
+34992,Moscow,37,Beach holiday,plane,New York
+58572,Bishkek,43,Beach holiday,auto,London
+43526,Bishkek,44,Beach holiday,auto,London
+41278,New York,42,Shopping,auto,New York
+45848,New York,42,Shopping,auto,New York
+36907,Bishkek,46,Beach holiday,plane,Moscow
+54780,Moscow,31,Shopping,plane,Moscow
+54991,New York,42,Beach holiday,auto,New York
+39767,Bishkek,38,Shopping,auto,London
+48561,Bishkek,48,Shopping,auto,London
+45834,Moscow,36,Beach holiday,plane,London
+30797,Bishkek,45,Beach holiday,plane,Moscow
+53537,Bishkek,50,Shopping,plane,London
+48494,Bishkek,46,Shopping,plane,Moscow
+55580,Moscow,49,Beach holiday,plane,Moscow
+40357,Bishkek,33,Beach holiday,plane,New York
+52889,Bishkek,36,Shopping,auto,Moscow
+37499,Moscow,46,Shopping,auto,Moscow
+42319,New York,43,Beach holiday,auto,New York
+32698,New York,44,Shopping,plane,Moscow
+50512,Bishkek,50,Shopping,auto,New York
+39773,Bishkek,35,Shopping,plane,New York
+31141,New York,45,Beach holiday,auto,Moscow
+44612,Bishkek,45,Beach holiday,plane,Moscow
+40895,Bishkek,42,Beach holiday,plane,Moscow
+52560,Bishkek,36,Beach holiday,auto,New York
+48723,New York,36,Shopping,plane,London
+44099,New York,31,Shopping,auto,New York
+51252,Moscow,35,Shopping,auto,New York
+52758,Moscow,43,Beach holiday,plane,Moscow
+34988,Moscow,31,Beach holiday,auto,New York
+42039,Bishkek,47,Beach holiday,plane,New York
+35014,New York,33,Shopping,plane,New York
+36382,New York,45,Beach holiday,auto,London
+39552,Moscow,41,Beach holiday,auto,Moscow
+53330,New York,33,Beach holiday,plane,Moscow
+50844,New York,39,Beach holiday,plane,London
+53779,Bishkek,49,Shopping,auto,New York
+55361,New York,47,Beach holiday,auto,New York
+44166,Moscow,41,Shopping,plane,New York
+36496,New York,38,Shopping,plane,New York
+36031,Bishkek,46,Shopping,auto,New York
+35989,New York,46,Shopping,auto,Moscow
+43895,Moscow,38,Beach holiday,plane,London
+36034,New York,30,Beach holiday,auto,Moscow
+40904,Moscow,35,Shopping,auto,London
+34001,Bishkek,42,Beach holiday,plane,New York
+36496,Moscow,33,Shopping,plane,London
+35971,New York,41,Beach holiday,plane,New York
+57183,Moscow,35,Shopping,auto,Moscow
+51863,Moscow,45,Beach holiday,plane,London
+44944,New York,44,Beach holiday,auto,Moscow
+46813,Moscow,31,Shopping,plane,New York
+57923,New York,45,Shopping,plane,New York
+42174,Bishkek,47,Shopping,plane,London
+34754,Bishkek,45,Beach holiday,auto,New York
+33543,Moscow,30,Shopping,auto,Moscow
+42425,New York,36,Beach holiday,auto,Moscow
+55197,Bishkek,41,Shopping,plane,London
+38993,Moscow,35,Shopping,auto,New York
+47509,New York,48,Shopping,plane,Moscow
+44974,Moscow,38,Shopping,auto,London
+58657,New York,49,Beach holiday,plane,New York
+39849,New York,37,Shopping,auto,New York
+37305,New York,31,Beach holiday,plane,London
+44229,New York,46,Beach holiday,auto,London
+36737,Moscow,43,Beach holiday,plane,New York
+38825,Bishkek,44,Shopping,plane,London
+50332,Bishkek,45,Shopping,auto,New York
+48351,Moscow,34,Shopping,auto,New York
+43212,Moscow,33,Beach holiday,auto,New York
+56388,Bishkek,43,Beach holiday,auto,London
+55762,Bishkek,49,Shopping,plane,Moscow
+44388,New York,50,Beach holiday,plane,New York
+40999,Bishkek,47,Beach holiday,plane,London
+58283,Moscow,33,Beach holiday,plane,New York
+36001,New York,36,Beach holiday,auto,London
+38345,Bishkek,31,Beach holiday,plane,London
+57154,Moscow,37,Beach holiday,plane,London
+57814,Moscow,50,Shopping,auto,London
+38054,Bishkek,43,Shopping,plane,London
+59717,Bishkek,33,Beach holiday,plane,London
+33870,Moscow,32,Shopping,auto,Moscow
+45015,Moscow,37,Shopping,auto,London
